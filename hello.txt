@@ -1,3 +1,7 @@
 Hello Git!
 This is new feature!
+<<<<<<< HEAD
 this is main modified line
+=======
+This is feature1 modified line
+>>>>>>> feature1
